@@ -15,3 +15,6 @@ if ($DHCPStatus -eq "Enabled") {
     Write-Host "✅ L'adresse IP est bien configurée en statique." -ForegroundColor Green
 }
 
+# Redémarrage du service
+Write-Host "✅ Rôle AD DS installé avec succès. Redémarrage du serveur en cours..." -ForegroundColor Green
+Restart-Computer -Force
