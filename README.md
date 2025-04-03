@@ -9,8 +9,7 @@ Ce projet contient des scripts PowerShell permettant d'installer, de configurer 
 
 ## Structure du projet 
     -   Vérification de l'adresse IP (statique obligatoire)  
-    -   Installation du rôle **AD DS**  
+    -   Installation du rôle **AD DS** 
     -   Redémarrage automatique après installation  
-    -   Création de la **forêt AD** 
+    -   Création des unités d'organisation 
     -   Ajout d'utilisateurs depuis un fichier CSV  
- 
