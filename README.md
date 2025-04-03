@@ -13,3 +13,4 @@ Ce projet contient des scripts PowerShell permettant d'installer, de configurer 
     -   Redémarrage automatique après installation  
     -   Création des unités d'organisation 
     -   Ajout d'utilisateurs depuis un fichier CSV  
+    -   Les utilisateurs devront créer un nouveau mot de passe lors de la première authentification
